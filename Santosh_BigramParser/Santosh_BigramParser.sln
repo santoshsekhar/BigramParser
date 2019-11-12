@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santosh_BigramParser", "Santosh_BigramParser.csproj", "{0B88730C-7BBD-4965-B33A-2356C4263606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B88730C-7BBD-4965-B33A-2356C4263606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B88730C-7BBD-4965-B33A-2356C4263606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B88730C-7BBD-4965-B33A-2356C4263606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B88730C-7BBD-4965-B33A-2356C4263606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E77AE0-4387-4B74-A185-4D8B6B85969B}
+	EndGlobalSection
+EndGlobal

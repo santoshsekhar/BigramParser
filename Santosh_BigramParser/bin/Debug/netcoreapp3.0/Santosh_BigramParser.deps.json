@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Santosh_BigramParser/1.0.0": {
+        "runtime": {
+          "Santosh_BigramParser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Santosh_BigramParser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

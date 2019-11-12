@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Santosh_BigramParser": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\admin\\source\\repos\\Santosh_BigramParser\\InputFiles\\Sample1.txt"
+    }
+  }
+}

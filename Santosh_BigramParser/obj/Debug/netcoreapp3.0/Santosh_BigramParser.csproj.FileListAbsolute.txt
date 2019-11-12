@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Santosh_BigramParser\bin\Debug\netcoreapp3.0\Santosh_BigramParser.exe
+C:\Users\admin\source\repos\Santosh_BigramParser\bin\Debug\netcoreapp3.0\Santosh_BigramParser.deps.json
+C:\Users\admin\source\repos\Santosh_BigramParser\bin\Debug\netcoreapp3.0\Santosh_BigramParser.runtimeconfig.json
+C:\Users\admin\source\repos\Santosh_BigramParser\bin\Debug\netcoreapp3.0\Santosh_BigramParser.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Santosh_BigramParser\bin\Debug\netcoreapp3.0\Santosh_BigramParser.dll
+C:\Users\admin\source\repos\Santosh_BigramParser\bin\Debug\netcoreapp3.0\Santosh_BigramParser.pdb
+C:\Users\admin\source\repos\Santosh_BigramParser\obj\Debug\netcoreapp3.0\Santosh_BigramParser.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Santosh_BigramParser\obj\Debug\netcoreapp3.0\Santosh_BigramParser.AssemblyInfo.cs
+C:\Users\admin\source\repos\Santosh_BigramParser\obj\Debug\netcoreapp3.0\Santosh_BigramParser.dll
+C:\Users\admin\source\repos\Santosh_BigramParser\obj\Debug\netcoreapp3.0\Santosh_BigramParser.pdb
+C:\Users\admin\source\repos\Santosh_BigramParser\obj\Debug\netcoreapp3.0\Santosh_BigramParser.csprojAssemblyReference.cache
